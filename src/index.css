@@ -75,12 +75,12 @@ html {
 }
 
 /* To check for user preference on browser */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     background: var(--dark-mode-backgroundColor);
     color: var(--dark-mode-textColor);
   }
-}
+} */
 
 body {
   background: var(--backgroundColor);
