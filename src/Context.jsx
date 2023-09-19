@@ -6,7 +6,10 @@ const ContextProvider = ({ children }) => {
   const [isDarkTheme, setIsDarkTheme] = useState(false);
 
   const toggleDarkTheme = () => {
+    const newDarkTheme = !isDarkTheme;
     setIsDarkTheme(!isDarkTheme);
+    const body = document.querySelector('body');
+    body.classList.toggle('dark-theme', newDarkTheme);
   };
 
   return (
