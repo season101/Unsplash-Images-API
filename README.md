@@ -1,3 +1,5 @@
+[![Build and Deploy](https://github.com/season101/Unsplash-Images-API/actions/workflows/build-and-deploy.yml/badge.svg?branch=main)](https://github.com/season101/Unsplash-Images-API/actions/workflows/build-and-deploy.yml)
+
 ## Figma URL
 
 [Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
